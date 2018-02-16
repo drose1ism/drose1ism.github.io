@@ -1,0 +1,7 @@
+body { background: gray;
+       color: green;
+       font-size:20pt;
+        font-family: 'Montserrat', sans-serif;
+
+        font-size: 32px; }
+nav li { display: inline-block }
